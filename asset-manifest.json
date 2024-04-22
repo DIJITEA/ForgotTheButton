@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ForgotTheButton/index.html/static/css/main.1beeb775.css",
+    "main.js": "/ForgotTheButton/index.html/static/js/main.a1de1645.js",
+    "static/js/453.c11e30e1.chunk.js": "/ForgotTheButton/index.html/static/js/453.c11e30e1.chunk.js",
+    "static/media/click.mp3": "/ForgotTheButton/index.html/static/media/click.29203845a8d611e184c2.mp3",
+    "index.html": "/ForgotTheButton/index.html/index.html",
+    "main.1beeb775.css.map": "/ForgotTheButton/index.html/static/css/main.1beeb775.css.map",
+    "main.a1de1645.js.map": "/ForgotTheButton/index.html/static/js/main.a1de1645.js.map",
+    "453.c11e30e1.chunk.js.map": "/ForgotTheButton/index.html/static/js/453.c11e30e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1beeb775.css",
+    "static/js/main.a1de1645.js"
+  ]
+}
